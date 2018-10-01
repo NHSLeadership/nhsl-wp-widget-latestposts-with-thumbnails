@@ -1,7 +1,6 @@
 {
   "name": "nhsleadership/nhsl-wp-widget-latestposts-with-thumbnails",
   "type": "wordpress-plugin",
-  "version": "1.0.0",
   "require": {
     "composer/installers": "~1.0"
 }
